@@ -23,8 +23,10 @@ This task uses the Mnist dabase (LeCun et al., 2010) that collects images of han
 
 8- Graph analysis of training and testing accuracy
 
-**Installation requriements **: 
+**Installation requirements**:
 
 following libraries are required for this model: 
 
 numpy, pandas, seaborn, matplotlib, sklearn 
+
+**Credits**:Andi
